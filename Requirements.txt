@@ -1,0 +1,5 @@
+Memberships
+* User should see link for Fan plan on home page
+* User should see link for Supporters plan on home page
+* Fan plan link should point to regular Devise sign up form
+* Supporters plan link should point to a custom sign up form
